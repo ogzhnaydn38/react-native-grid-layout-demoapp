@@ -7,6 +7,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@ogzhnaydn/react-native-grid-layout": "^1.0.2",
     "expo": "~46.0.9",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
